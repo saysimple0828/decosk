@@ -1,0 +1,3 @@
+[submodule "frontend/admin"]
+	path = frontend/admin
+	url = https://github.com/dlake82/play-helloworld-admin
