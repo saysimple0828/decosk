@@ -6,7 +6,7 @@ play-helloworld share many apps that developed by many stacks.
 
 
 - Frontend
-   - Bullet
+   - admin-app
      - Bullet list
     
    - 
