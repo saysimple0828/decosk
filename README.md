@@ -15,8 +15,8 @@ play-helloworld share many apps that developed by many stacks.
 - iac
  - Install K8s and services's helms.
 
-- Bullet List
- - list
+- frontend
+ - admin-app
    - Bullet
      - Bullet list
 
