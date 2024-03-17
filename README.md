@@ -5,13 +5,13 @@ play-helloworld share many apps that developed by many stacks.
 # Functional Specification
 
 - frontend
--- admin-app
--- secondmarket-app
+ - admin-app
+ - secondmarket-app
 - backend
--- admin-api
--- secondmarket-api
+ - admin-api
+ - secondmarket-api
 - iac
--- Install K8s and services's helms.
+ - Install K8s and services's helms.
 
 # License
 
