@@ -4,6 +4,7 @@ play-helloworld share many apps that developed by many stacks.
 
 # Functional Specification
 
+
 - Frontend
  - Admin
    - Bullet
