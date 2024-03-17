@@ -13,6 +13,16 @@ play-helloworld share many apps that developed by many stacks.
 - iac
  - Install K8s and services's helms.
 
+- Bullet List
+ - list
+   - Bullet
+     - Bullet list
+
+* Bullet List
+ * list
+   * Bullet
+     * Bullet list
+
 # License
 
 MIT License.
