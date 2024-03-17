@@ -7,7 +7,7 @@ play-helloworld share many apps that developed by many stacks.
 
 - Frontend
    - admin-app
-     - Bullet list
+   - secondmarket-app
     
    - 
 
