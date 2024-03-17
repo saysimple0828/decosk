@@ -8,9 +8,9 @@ For a better world.
 
 - frontend
    - admin-app with Next.js
-   - secondmarket-app Next.js
-   - ecommerce-app with Flutter
-   - chat-app with Vue.js V3
+   - secondmarket-app Flutter
+   - ecommerce-app with Next.js
+   - chat-app with Vue.js
     
 - backend
    - admin-api with Django
