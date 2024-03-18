@@ -1,3 +1,11 @@
 [submodule "frontend/admin"]
 	path = frontend/admin
-	url = https://github.com/dlake82/play-helloworld-admin
+	url = https://github.com/dlake82/play-helloworld-admin-app
+
+[submodule "backend/admin"]
+	path = backend/admin
+	url = https://github.com/dlake82/play-helloworld-admin-api
+
+[submodule "iac"]
+	path = iac
+	url = https://github.com/dlake82/play-helloworld-iac
