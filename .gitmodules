@@ -1,11 +1,19 @@
-[submodule "app"]
-	path = frontend/admin
-	url = https://github.com/saysimple0828/decosk-app
-
-[submodule "api"]
-	path = backend/admin
-	url = https://github.com/saysimple0828/decosk-api
-
 [submodule "iac"]
 	path = iac
 	url = https://github.com/saysimple0828/decosk-iac
+
+[submodule "decosk/app"]
+	path = decosk/app
+	url = https://github.com/saysimple0828/decosk-app
+
+[submodule "decosk/api"]
+	path = decosk/api
+	url = https://github.com/saysimple0828/decosk-api
+
+[submodule "admin/app"]
+	path = decosk/app
+	url = https://github.com/saysimple0828/decosk-admin-app
+
+[submodule "admin/api"]
+	path = decosk/api
+	url = https://github.com/saysimple0828/decosk-admin-api
