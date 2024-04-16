@@ -1,11 +1,11 @@
-[submodule "frontend/admin"]
+[submodule "app"]
 	path = frontend/admin
-	url = https://github.com/dlake82/play-helloworld-admin-app
+	url = https://github.com/saysimple0828/decosk-app
 
-[submodule "backend/admin"]
+[submodule "api"]
 	path = backend/admin
-	url = https://github.com/dlake82/play-helloworld-admin-api
+	url = https://github.com/saysimple0828/decosk-api
 
 [submodule "iac"]
 	path = iac
-	url = https://github.com/dlake82/play-helloworld-iac
+	url = https://github.com/saysimple0828/decosk-iac
